@@ -12,8 +12,8 @@ function About() {
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
                     <h2 className="colorlib-heading">Who Are We?</h2>
-                    <p>I'm currently an undergrad at the University of Sydney, studying Project Management with a major in Information Systems. I'm passionate about digital transformation projects and enjoy assiting organizations implement cutting-edge technologies to unlock actual business benefits.</p>
-                    <p>I've had various work experiences in different fields such as IT services, E-commerce, and semiconductor industries. Currently, I'm looking for roles in IT Project Management, System Analysis, or Front-end Development.</p>
+                    <p>LAHAM Project Consultancy is an innovative management consultancy offering unique project management approach to the niche market of multi-media projects in the Entertainment industry.</p>
+                    <p>We offer expertise in multimedia projects, advanced knowledge in project delivery. We provide advisory and consultancy services to clients. Our Project Management Framework Is effective in implementing these services.</p>
                     </div>
                 </div>
                 </div>
@@ -25,41 +25,41 @@ function About() {
         <div className="colorlib-narrow-content">
             <div className="row">
             <div className="col-md-6 col-md-offset-3 col-md-pull-3 animate-box" data-animate-effect="fadeInLeft">
-                <span className="heading-meta">What I do?</span>
-                <h2 className="colorlib-heading">Here are some of my expertise</h2>
+                <span className="heading-meta">What we do?</span>
+                <h2 className="colorlib-heading">Here are some of our expertise</h2>
             </div>
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-1">
                 <span className="icon">
-                    <i className="icon-bulb" />
+                    <i className="icon-data" />
                 </span>
                 <div className="desc">
-                    <h3>Project Management Office</h3>
-                    <p>I have experience in project management consultancy. I provide Project Management insights to organisation and assist them to implement tailored Project Management Governance Framework. I also project manage small IT projects at times.</p>
+                    <h3>Digital Integration</h3>
+                    <p>The integration brings customers easier access to content they desire to watch. Our innovative solution packages empower traditional film production adapting to modern streaming ecosystem.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-3">
                 <span className="icon">
-                    <i className="icon-data" />
+                    <i className="icon-bulb" />
                 </span>
                 <div className="desc">
-                    <h3>Information Systems</h3>
-                    <p>Coming from the IS background, I am proficient in Software Development, Programming, Database Management, System Analysis, and IT Evaluation. I have particpated in website development projects using React.js, HTML, and CSS.</p>
+                    <h3>Multimedia Consultancy</h3>
+                    <p>We aim to leverage our extensive knowledge and experience in this field, along with a team of experts, to offer tailored solutions to meet the unique needs of each client. Our goal is to be recognized as the go-to consultancy for multimedia businesses seeking to enhance their operations and achieve long-term success.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
                 <div className="services color-5">
                 <span className="icon">
-                    <i className="icon-cloud3" />
+                    <i className="icon-user2" />
                 </span>
                 <div className="desc">
-                    <h3>Digital Transofrmation</h3>
-                    <p>Equiping with Analytical and Complex Problem Solving Skills, I am passionate with Digital Transformation. I analyze business models, elicit requiements, and onboarding organizations with emerging technologies.</p>
+                    <h3>Superb Professionalism</h3>
+                    <p>We believe each colleague In our organisation has their personal expertise In an area of work. We utilise and enhance that skill so that our team Is effective and successful In managing multimedia projects in all contexts.</p>
                 </div>
                 </div>
             </div>
