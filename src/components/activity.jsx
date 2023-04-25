@@ -35,8 +35,8 @@ function ActivityList() {
       <ul style={{paddingInlineStart: '0px'}}>
         {activities.map(activity => (
           <ul key={activity.id}>
-            <div style={{display: 'flex', alignItems: 'flex-start'}}>
-              <img src={activity.image} alt={activity.name} style={{ width: '300px', height: '200px', marginRight: '10px', maxWidth: '100%' }}></img>
+            <div >
+              <img src={activity.image} alt={activity.name} style={{ width: '300px', height: '200px', marginRight: '10px', marginBottom: '20px', maxWidth: '100%' }}></img>
               <div>
                 <h3 style={{fontFamily: '"Quicksand", Arial, sans-serif', 
                             fontSize: '24px', 
