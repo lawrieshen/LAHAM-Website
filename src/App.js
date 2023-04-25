@@ -4,6 +4,8 @@ import Sidebar from './components/sidebar';
 import Introduction from './components/introduction';
 import About from './components/about';
 import ActivityList from './components/activity';
+import PMF from './components/pmf';
+import Contact from './components/contact';
 
 
 class App extends Component {
@@ -16,6 +18,8 @@ class App extends Component {
 					<Introduction></Introduction>
 					<About></About>
           <ActivityList></ActivityList>
+          <PMF></PMF>
+          <Contact></Contact>
           	</div>
       	</div>
       </div>
