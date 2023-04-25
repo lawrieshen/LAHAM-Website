@@ -14,6 +14,7 @@ function About() {
                     <h2 className="colorlib-heading">Who Are We?</h2>
                     <p>LAHAM Project Consultancy is an innovative management consultancy offering unique project management approach to the niche market of multi-media projects in the Entertainment industry.</p>
                     <p>We offer expertise in multimedia projects, advanced knowledge in project delivery. We provide advisory and consultancy services to clients. Our Project Management Framework Is effective in implementing these services.</p>
+                    <p>After being involved in many project, we have established a large network of clients and organisational relationships. We offer specialised consultants to assist In any aspect of multimedia.</p>
                     </div>
                 </div>
                 </div>
@@ -63,41 +64,22 @@ function About() {
                 </div>
                 </div>
             </div>
-            {/*
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-2">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Dev Ops</h3>
-                    <p>Jenkins , Kubernetes , Docker </p>
+            </div>
+        </div>
+        </section>
+        <section>
+        <div className="colorlib-narrow-content">
+            <div className="row">
+            <div className="col-md-12">
+                <div className="row row-bottom-padded-sm animate-box" data-animate-effect="fadeInLeft">
+                <div className="col-md-12">
+                    <div className="about-desc">
+                    <h2 className="colorlib-heading">Meet Our Team</h2>
+                    <img src='images/Meet-Our-Team.png' alt='Meet Our Team' style={{maxWidth: '100%'}}></img>
+                    </div>
                 </div>
                 </div>
             </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-4">
-                <span className="icon">
-                    <i className="icon-layers2" />
-                </span>
-                <div className="desc">
-                    <h3>Graphic Design</h3>
-                    <p>My friend knows .. P</p>
-                </div>
-                </div>
-            </div>
-            <div className="col-md-4 text-center animate-box">
-                <div className="services color-6">
-                <span className="icon">
-                    <i className="icon-phone3" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Marketing</h3>
-                    <p>I use Instagram eight hours a day :) </p>
-                </div>
-                </div>
-            </div>
-            */}
             </div>
         </div>
         </section>
