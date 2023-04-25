@@ -11,7 +11,7 @@ function About() {
                 <div className="col-md-12">
                     <div className="about-desc">
                     <span className="heading-meta">About Us</span>
-                    <h2 className="colorlib-heading">Who Am I?</h2>
+                    <h2 className="colorlib-heading">Who Are We?</h2>
                     <p>I'm currently an undergrad at the University of Sydney, studying Project Management with a major in Information Systems. I'm passionate about digital transformation projects and enjoy assiting organizations implement cutting-edge technologies to unlock actual business benefits.</p>
                     <p>I've had various work experiences in different fields such as IT services, E-commerce, and semiconductor industries. Currently, I'm looking for roles in IT Project Management, System Analysis, or Front-end Development.</p>
                     </div>
