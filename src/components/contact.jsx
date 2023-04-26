@@ -40,7 +40,7 @@ function Contact() {
                     <h3 style={{fontFamily: '"Quicksand", Arial, sans-serif', 
                                 fontSize: '24px', 
                                 fontWeight: '500',}}>Australia Office Location</h3>
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.042070806406!2d151.1847744759459!3d-33.88857032008365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b1d4ab9ef1d9%3A0x1d017d69037a07c0!2sThe%20University%20of%20Sydney!5e0!3m2!1sen!2sau!4v1682414232641!5m2!1sen!2sau" width="600" height="450" style={{border:"0"}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3312.042070806406!2d151.1847744759459!3d-33.88857032008365!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6b12b1d4ab9ef1d9%3A0x1d017d69037a07c0!2sThe%20University%20of%20Sydney!5e0!3m2!1sen!2sau!4v1682414232641!5m2!1sen!2sau" width="600" height="450" style={{border:"0", maxWidth: "100%"}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
                 <div className="inquiry" style={{paddingBottom:'20px', marginBottom:'20px'}} >
                     <h3 style={{fontFamily: '"Quicksand", Arial, sans-serif', 

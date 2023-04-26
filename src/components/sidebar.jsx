@@ -11,7 +11,7 @@ export default class Sidebar extends Component {
               <div className="author-img" style={{backgroundImage: 'url(images/LAHAM_logo.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">LAHAM</a></h1>
               <h3>Project Management Consultancy</h3>
-              <span className="email" style={{marginBottom:'20px'}}><i className="icon-mail"></i> lahampm@gmail.com</span>
+              <span className="email" style={{marginBottom:'20px'}}><i className="icon-mail"></i> info@laham</span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
