@@ -18,7 +18,7 @@ class App extends Component {
 					<Introduction></Introduction>
 					<About></About>
           <ActivityList></ActivityList>
-          <PMF></PMF>
+          {/*<PMF></PMF>*/}
           <Contact></Contact>
           	</div>
       	</div>
