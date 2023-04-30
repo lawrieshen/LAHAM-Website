@@ -32,29 +32,29 @@ function About() {
             </div>
             <div className="row row-pt-md">
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-1">
-                <span className="icon">
-                    <i className="icon-data" />
-                </span>
-                <div className="desc">
-                    <h3>Digital Integration</h3>
-                    <p>The integration brings customers easier access to content they desire to watch. Our innovative solution packages empower traditional film production adapting to modern streaming ecosystem.</p>
-                </div>
+                <div className="services glass-card-effect">
+                    <span className="icon">
+                        <i className="icon-data" />
+                    </span>
+                    <div className="desc">
+                        <h3>Digital Integration</h3>
+                        <p>The integration brings customers easier access to content they desire to watch. Our innovative solution packages empower traditional film production adapting to modern streaming ecosystem.</p>
+                    </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-3">
-                <span className="icon">
+                <div className="services color-3 glass-card-effect">
+                <span className="icon ">
                     <i className="icon-bulb" />
                 </span>
-                <div className="desc">
+                <div className="desc" style={{overflow: 'hidden'}}>
                     <h3>Multimedia Consultancy</h3>
-                    <p>We aim to leverage our extensive knowledge and experience in this field, along with a team of experts, to offer tailored solutions to meet the unique needs of each client. Our goal is to be recognized as the go-to consultancy for multimedia businesses seeking to enhance their operations and achieve long-term success.</p>
+                    <p>We aim to leverage our extensive knowledge and experience in this field, along with a team of experts, to offer tailored solutions to meet the unique needs of each client.</p>
                 </div>
                 </div>
             </div>
             <div className="col-md-4 text-center animate-box">
-                <div className="services color-5">
+                <div className="services color-5 glass-card-effect">
                 <span className="icon">
                     <i className="icon-user2" />
                 </span>
