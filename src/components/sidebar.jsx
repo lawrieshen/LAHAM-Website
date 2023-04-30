@@ -11,7 +11,7 @@ export default class Sidebar extends Component {
               <div className="author-img" style={{backgroundImage: 'url(images/LAHAM_logo.png)'}} />
               <h1 id="colorlib-logo"><a href="index.html">LAHAM</a></h1>
               <h3>Project Management Consultancy</h3>
-              <span className="email" style={{marginBottom:'20px'}}><i className="icon-mail"></i> info@laham</span>
+              <span className="email" style={{marginBottom:'20px'}}><i className="icon-mail"></i> info@lahampm.com </span>
             </div>
             <nav id="colorlib-main-menu" role="navigation" className="navbar">
               <div id="navbar" className="collapse">
@@ -21,8 +21,9 @@ export default class Sidebar extends Component {
                   {/*<li>Products</li>*/}
                   <li><a href="#activities" data-nav-section="activities">Activities</a></li>
                   {/*<li>Testimonial</li>*/}
-                  <li><a href='#PMF' data-nav-section='PMF'>Solution</a></li>
+                  {/*<li><a href='#PMF' data-nav-section='PMF'>Solution</a></li>*/}
                   <li><a href='#contact' data-nav-section='contact'>Contact US</a></li>
+                  <li><a href=''>Project Dashboard Demo</a></li>
                 </ul>
               </div>
             </nav>

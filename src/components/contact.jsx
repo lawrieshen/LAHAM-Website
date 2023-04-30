@@ -25,7 +25,7 @@ function Contact() {
                     <h3 style={{fontFamily: '"Quicksand", Arial, sans-serif', 
                                 fontSize: '24px', 
                                 fontWeight: '500',}}>Email</h3>
-                    <p>info@example.com</p>
+                    <p>info@lahampm.com</p>
                     </div>
                     <div class="InternationlOffice">
                     <h3 style={{fontFamily: '"Quicksand", Arial, sans-serif', 

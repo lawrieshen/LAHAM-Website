@@ -31,6 +31,7 @@ function ActivityList() {
   return (
     <section data-section="activities">
     <div className="colorlib-narrow-content">
+      <span className='heading-meta'>Activity</span>
       <h2 className="colorlib-heading" style={{fontSize: '24px'}}>Activities</h2>
       <ul style={{paddingInlineStart: '0px'}}>
         {activities.map(activity => (

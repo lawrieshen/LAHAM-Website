@@ -1429,3 +1429,10 @@ body.offcanvas {
 
 .js .animate-box {
   opacity: 0; }
+
+/*self-defiend style*/
+.figma-embed {
+  position:relative; height:900px; display:flex;}
+  @media screen and (max-width:1400px) {
+    .figma-embed {
+      padding: 0; } }

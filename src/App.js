@@ -5,6 +5,7 @@ import Introduction from './components/introduction';
 import About from './components/about';
 import ActivityList from './components/activity';
 import PMF from './components/pmf';
+import Demo from './components/demo'
 import Contact from './components/contact';
 
 
@@ -19,6 +20,7 @@ class App extends Component {
 					<About></About>
           <ActivityList></ActivityList>
           {/*<PMF></PMF>*/}
+          <Demo></Demo>
           <Contact></Contact>
           	</div>
       	</div>
