@@ -22,8 +22,9 @@ export default class Sidebar extends Component {
                   <li><a href="#activities" data-nav-section="activities">Activities</a></li>
                   {/*<li>Testimonial</li>*/}
                   {/*<li><a href='#PMF' data-nav-section='PMF'>Solution</a></li>*/}
+                  <li><a href='#demo' data-nav-section='demo'>Project Dashboard Demo</a></li>
                   <li><a href='#contact' data-nav-section='contact'>Contact US</a></li>
-                  <li><a href=''>Project Dashboard Demo</a></li>
+                  
                 </ul>
               </div>
             </nav>
